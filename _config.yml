@@ -13,3 +13,5 @@ favicon_ico: "favicon.ico"
 
 nav_enabled: true
 color_scheme: light
+
+search_enabled: false
