@@ -6,13 +6,13 @@ nav_order: 1
 ### Michigan Mentors Summer 2025
 
 ## Important Information
-Meeting Days: Mondays, Wednesdays, and Thursdays
-Meeting Time: 6-7 PM EST (mind the timezone)
-Length of Class: 4 weeks
-Location: Zoom (link can be found in Google Calendar invites)
-Michigan Mentors Website: www.mzbtutors.com/michigan-mentors
+- Meeting Days: Mondays, Wednesdays, and Thursdays
+- Meeting Time: 6-7 PM EST (mind the timezone)
+- Length of Class: 4 weeks
+- Location: Zoom (link can be found in Google Calendar invites)
+- Michigan Mentors Website: www.mzbtutors.com/michigan-mentors
 
-Questions: www.mzbtutors.com
+Questions: mzbtutors@gmail.com
 
 ### Please see time change for this Wednesday 6/25
 
