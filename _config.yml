@@ -1,0 +1,15 @@
+title: "Michigan Mentors Summer CS"
+
+url: "https://pre-health.mzbtutors.com"
+baseurl: ""
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+logo: "img/mm-logo.png"
+favicon_ico: "favicon.ico"
+
+nav_enabled: true
+color_scheme: light
