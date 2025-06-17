@@ -14,7 +14,7 @@ nav_order: 1
 
 Questions: mzbtutors@gmail.com
 
-### Please see time change for this Wednesday 6/25
+#### Please see time change for this Wednesday 6/25
 
 ### Week 1 (6/23 - 6/26)
 #### Monday June 23
@@ -34,3 +34,8 @@ Workshop: Research Experiences
 - Cold Emailing
 - Research in Graduate School
 - Interview Preparation
+
+## Instructors (connect with us!!)
+[Mehul Gautham - Instructor/Pre-Health Director - mgauta@umich.edu](https://www.linkedin.com/in/mehul-gautam-124696236/)
+[Sophie Chong - Instructor/Pre-Health Director - shchong@umich.edu](https://www.linkedin.com/in/sophie-chong-641b42261/)
+[Jacob Robins - Michigan Mentors President - jhrobins@umich.edu](https://www.linkedin.com/in/jhrobins/)
