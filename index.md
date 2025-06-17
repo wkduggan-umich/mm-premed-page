@@ -36,6 +36,6 @@ Workshop: Research Experiences
 - Interview Preparation
 
 ## Instructors (connect with us!!)
-[Mehul Gautham - Instructor/Pre-Health Director - mgauta@umich.edu](https://www.linkedin.com/in/mehul-gautam-124696236/)
-[Sophie Chong - Instructor/Pre-Health Director - shchong@umich.edu](https://www.linkedin.com/in/sophie-chong-641b42261/)
-[Jacob Robins - Michigan Mentors President - jhrobins@umich.edu](https://www.linkedin.com/in/jhrobins/)
+[Mehul Gautham](https://www.linkedin.com/in/mehul-gautam-124696236/) - Instructor/Pre-Health Director - mgauta@umich.edu<br>
+[Sophie Chong](https://www.linkedin.com/in/sophie-chong-641b42261/) - Instructor/Pre-Health Director - shchong@umich.edu<br>
+[Jacob Robins](https://www.linkedin.com/in/jhrobins/) - Michigan Mentors President - jhrobins@umich.edu<br>
