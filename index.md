@@ -2,26 +2,35 @@
 title: "Home"
 nav_order: 1
 ---
-# Intoduction to Python and Data Science
-### Michigan Mentors Summer 25
+# Pre-Health Career Workshop
+### Michigan Mentors Summer 2025
+
+## Important Information
+Meeting Days: Mondays, Wednesdays, and Thursdays
+Meeting Time: 6-7 PM EST (mind the timezone)
+Length of Class: 4 weeks
+Location: Zoom (link can be found in Google Calendar invites)
+Michigan Mentors Website: www.mzbtutors.com/michigan-mentors
+
+Questions: www.mzbtutors.com
+
+### Please see time change for this Wednesday 6/25
 
 ### Week 1 (6/23 - 6/26)
 #### Monday June 23
-Hello World
+Lecture: Neurology
+- Nervous System Anatomy
+- Neurodegenerative Diseases
+- Psychological Disorders
+- Neuro Research
 
-[📜Slides]() [📄Blank Colab]() [📝Filled Colab]()
-
-#### Tuesday June 24
-Booleans and Conditionals
-
-[📜Slides]() [📄Blank Colab]() [📝Filled Colab]()
-
-#### Wednesday June 25
-Discussion: Hello World, Booleans, and Conditionals
-
-[📄Blank Colab]() [📝Solutions]()
+#### Wednesday June 25 (NOTE TIME CHANGE)
+Speaker: Doctor
+Time Change: 7-8 PM EST (change to session time)
 
 #### Thrursday June 26
-Special Topic: Probability
-
-[📜Slides]()
+Workshop: Research Experiences
+- Types of Research
+- Cold Emailing
+- Research in Graduate School
+- Interview Preparation
