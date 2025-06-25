@@ -14,6 +14,8 @@ nav_order: 1
 
 Questions: mzbtutors@gmail.com
 
+Find slides [here](https://drive.google.com/drive/folders/1m_ahUpLQx5ofWpt1EQGB1_EpAANKYd_y?usp=sharing)
+
 #### Please see time change for this Wednesday 6/25
 
 ### Week 1 (6/23 - 6/26)
